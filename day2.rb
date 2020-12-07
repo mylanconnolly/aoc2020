@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 # --- Day 2: Password Philosophy ---
 # Your flight departs in a few days from the coastal airport; the easiest way

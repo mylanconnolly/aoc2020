@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 # --- Day 4: Passport Processing ---
 # You arrive at the airport only to realize that you grabbed your North Pole

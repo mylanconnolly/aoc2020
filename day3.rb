@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 # --- Day 3: Toboggan Trajectory ---
 # With the toboggan login problems resolved, you set off toward the airport.
